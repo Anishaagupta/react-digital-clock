@@ -1,0 +1,23 @@
+*{
+  margin: 0;
+  padding: 0;
+  background-image: linear-gradient(to left, rgb(252, 201, 252), rgb(247, 170, 247));
+}
+
+h1{
+  display: flex;
+  justify-content: center;
+  margin-top: 200px;
+  font-size: 60px;
+}
+p{
+  display: flex;
+  justify-content: center;
+  margin-bottom: 200px;
+  margin-top: 20px;
+  font-size: 60px;
+}
+
+
+
+
